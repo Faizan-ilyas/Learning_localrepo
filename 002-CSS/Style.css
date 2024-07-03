@@ -1,0 +1,15 @@
+.A001{
+    font-style: italic;font-family: ;height: 200%;display: flex;justify-content: center;align-content: center;background-color: rgb(210, 185, 233);
+}
+.body{
+    background-color: cornflowerblue;
+}
+.bodypg1{
+    background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);background-repeat: no-repeat;background-size: cover;
+}
+.namefld{
+   display: flex; border: 2px solid gray;
+}
+.navbar{
+    display: inline-flex;color: aliceblue;padding: 8px 8px;background-color: black;overflow:hidden;float: left;
+}
